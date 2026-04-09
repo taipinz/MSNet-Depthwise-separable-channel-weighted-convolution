@@ -1,0 +1,2 @@
+# MSNet-Depthwise-separable-channel-weighted-convolution
+基于传统深度可分离卷积和通道加权模块改进的卷积，结合mamba架构实现井下复杂图像下的轻量化目标检测
